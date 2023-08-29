@@ -38,6 +38,7 @@ javap -v Hello.class
 ### クラスファイルのバイナリ表示
 
 スライドでは登場しませんがターミナルでバイナリを表示したいときに使えます。
+macOSかLinuxであれば`od`コマンドが使えるはずです。Windowsで使えるかはよくわかりません。
 
 ```bash
 od -tx1 Hello.class
