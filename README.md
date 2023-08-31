@@ -2,6 +2,14 @@
 
 ## 使用するコマンドの一覧
 
+### このリポジトリのクローン
+
+gitが使える環境の方はこちらのコマンドでクローンできます。
+
+```bash
+git clone https://github.com/Oni-Men/BytecodeTutorial.git
+```
+
 ### JDKのバージョン表示
 
 ```bash
